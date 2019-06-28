@@ -22,6 +22,7 @@ The Service will be started to port: 8080
 Refer swagger url for complete details :
 
 http://localhost:8080/swagger-ui.html#/
+
 http://localhost:8080/v2/api-docs/
 
 Management related end points are exposed via port : 8090
