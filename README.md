@@ -1,4 +1,4 @@
-## Altimetrik API for Article Publish
+## API for Article Publish
 
 This repository contain service for Article Publish.
 
